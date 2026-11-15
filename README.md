@@ -222,6 +222,9 @@ Enter your campus-related question when prompted.
 ---
 
 ## 💻 Sample Interaction
+### 📸 Project Demo
+
+![Campus Knowledge Assistant Demo](screenshots/campus-assistant-demo.png)
 
 ### Example 1: Known Question
 
